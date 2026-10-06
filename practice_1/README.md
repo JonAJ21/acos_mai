@@ -10,3 +10,20 @@
  
 4. Результаты выложить в git
 5. Выложить ссылку в таблицу
+
+
+### Тест 1.asm (Задание а)
+
+<img width="307" height="699" alt="image" src="https://github.com/user-attachments/assets/adb97529-ad87-4c6e-a215-b2852233726e" />
+
+### Тест 2.asm (Задание б)
+
+<img width="441" height="893" alt="image" src="https://github.com/user-attachments/assets/94ffd219-de02-4b22-8fa4-6c2d3b512522" />
+
+### Тест 3.asm (Задание в)
+
+<img width="531" height="859" alt="image" src="https://github.com/user-attachments/assets/8e0be9a4-3873-46f1-8ed9-dcabf6e93ae7" />
+
+<br>
+
+<img width="301" height="174" alt="image" src="https://github.com/user-attachments/assets/492cf303-7c33-4db3-b8f7-6ad29540db73" />
